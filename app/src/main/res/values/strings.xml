@@ -3,4 +3,7 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+
+    <string name="title_current_movies">Now Showing</string>
+    <string name="title_popular_movies">Popular</string>
 </resources>
